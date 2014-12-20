@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Amplifier</string>
+    <string name="title_section1">Техника безопасности</string>
+    <string name="title_section2">Лицевая панель</string>
+    <string name="title_section3">Тыльная панель</string>
+    <string name="title_section4">Замена ламп</string>
+    <string name="title_section5">Гарантийное обслуживание</string>
+    <string name="title_section6">Технические характеристики</string>
+    <string name="title_section7">О программе</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
