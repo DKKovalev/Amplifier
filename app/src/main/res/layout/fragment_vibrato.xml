@@ -3,11 +3,16 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Vibrato"
-        android:id="@+id/textView9"
-        android:layout_gravity="center_horizontal" />
+        android:id="@+id/imageView2"
+        android:src="@drawable/frontvibrato" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@android:id/list"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="5sp"/>
 </LinearLayout>

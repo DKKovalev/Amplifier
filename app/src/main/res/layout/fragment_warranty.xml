@@ -9,7 +9,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="WARRANTY"
-        android:id="@+id/textView7"
-        android:layout_gravity="center_horizontal" />
+        android:text="По всем вопросам, связанным с ремонтом или сервисным обслуживанием комбо-усилителя ’65 Twin Reverb, обращайтесь к представителям фирмы Fender — компании A&amp;T Trade. Телефон для справок (095) 242-53-25."
+        android:id="@+id/textView7" />
 </LinearLayout>
